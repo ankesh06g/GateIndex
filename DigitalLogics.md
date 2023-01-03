@@ -1,6 +1,6 @@
 # Digital Logics
 
-1. Boolean Algebra
+1. ## Boolean Algebra
     1. Boolean Rules
     2. De Morgan's Theorem
     3. Combinational circuit 
